@@ -1,7 +1,7 @@
 # Jadwal Imsakiyah
 Aplikasi Jadwal Imsakiyah berbasis Android
 
-Ringkasan aplikasi yang akan kita buat yaitu aplikasi “Jadwal Imsakiyah” yang memiliki
+Aplikasi “Jadwal Imsakiyah” memiliki
 beberapa fitur antara lain :
 <ul>
 <li>Melihat jadwal waktu imsakiyah untuk wilayah Bandar Lampung dan sekitarnya</li>
