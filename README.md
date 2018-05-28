@@ -1,4 +1,4 @@
-# JadwalImsakiyah
+# Jadwal Imsakiyah
 Aplikasi Jadwal Imsakiyah berbasis Android
 
 Ringkasan aplikasi yang akan kita buat yaitu aplikasi “Jadwal Imsakiyah” yang memiliki
